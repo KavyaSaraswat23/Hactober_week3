@@ -18,6 +18,18 @@ CraftList AI is a privacy-first, client-side listing optimizer and margin engine
 
 ---
 
+## 🏗️ Architecture & Tech Stack
+
+| Layer | Technology | Details |
+| :--- | :--- | :--- |
+| **Frontend Framework** | React 19 + Vite | Instant HMR, responsive split-screen studio layout |
+| **Design System** | Custom Vanilla CSS | Dark obsidian aesthetic, glassmorphism, responsive grid |
+| **Open-Weight AI** | Google Gemma 2 (2B / 9B) | Local inference via Ollama or built-in client engine |
+| **Icons & Effects** | Lucide-React & Canvas-Confetti | Modern UI icons and celebratory visual feedback |
+| **Data Formats** | JSON & CSV | RFC 4180 compliant CSV export for marketplace bulk uploads |
+
+---
+
 ## 🛠️ Quick Start
 
 ### 1. Install & Run Web App
