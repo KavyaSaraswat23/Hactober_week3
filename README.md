@@ -49,6 +49,17 @@ CraftList AI will auto-detect the local daemon at `http://localhost:11434`. If O
 
 ---
 
+## 🎯 Marketplace Compliance Engine
+
+CraftList AI automatically tailors output parameters to strict e-commerce search algorithm specifications:
+
+- **Etsy:** Enforces $\le 140$ character titles and exactly 13 search tags ($\le 20$ characters per tag, zero duplicate keywords).
+- **eBay:** Formats titles within eBay's strict 80-character limit and structures technical specifications into item specifics.
+- **Shopify:** Generates brand-forward editorial descriptions and SEO meta descriptions for Google indexing.
+- **Amazon Handmade:** Generates structured search terms and 5 bullet feature attributes for Amazon search rank.
+
+---
+
 ## 💡 Why Open Innovation Matters
 
 1. **Zero Recurring SaaS Tolls ($0 vs $40/mo):** Solo crafters operate on tight margins. Closed AI listing tools charge monthly subscriptions; running Gemma 2 on a laptop has zero marginal cost.
