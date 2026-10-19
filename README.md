@@ -66,3 +66,12 @@ CraftList AI automatically tailors output parameters to strict e-commerce search
 2. **Absolute Trade Secret Privacy:** Artisans keep unreleased prototypes, secret wood finishes, glaze chemistry, and supplier details off third-party servers.
 3. **Deterministic Constraint Adherence:** Gemma 2 turn tokens (`<start_of_turn>user ...`) enable tight structured JSON formatting that never violates strict marketplace character limits.
 4. **100% Offline Portability:** Works at flea markets, craft fairs, and rural studios without an internet connection.
+
+---
+
+## 📜 License & Community
+
+- **License:** Open-source under the [MIT License](LICENSE)
+- **Challenge:** Built for the [DEV Hacktoberfest Open-Source AI Challenge Week 2 (Side Hustle)](https://dev.to/challenges/hacktoberfest-week2-2026-10-12)
+- **Model:** [Google Gemma 2](https://ai.google.dev/gemma) open weights
+- **Telemetry & Tracing:** Agent session preserved with [DevRelay](https://devrelay.com)
