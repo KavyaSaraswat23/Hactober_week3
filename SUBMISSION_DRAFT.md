@@ -1,5 +1,5 @@
 ---
-title: "CraftList AI: Why Open Innovation Powers My 100% Local E-Commerce Listing Studio with Gemma 2"
+title: "Why I Built CraftList AI: An Offline AI Side-Hustle Copilot Powered by Google Gemma 2"
 published: false
 tags: devchallenge, hf26challenge, gemma, opensource
 ---
